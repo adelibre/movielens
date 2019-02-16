@@ -1,2 +1,3 @@
-# movielens
-PH125.9x capstone
+# Movielens
+Capstone project for PH125.9x 
+data science MOOC en EDX
